@@ -1,0 +1,83 @@
+AUTO-1:                                                 
+- person:         
+- address:        
+- address:        
+- address:        GR                                  
+- phone:          +30
+- nic-hdl:        AUTO-1                                
+- mnt-by:         GRNET-NOC                                     
+- source:         RIPE                                          
+                                                 
+AUTO-2:                                                 
+- person:         
+- address:        
+- address:        
+- address:        GR                           
+- phone:          +30
+- nic-hdl:        AUTO-2                         
+- mnt-by:         GRNET-NOC                             
+- source:         RIPE                                  
+                                               
+AUTO-3:                                                 
+- role:           
+- address:        
+- address:        
+- address:        GR                           
+- phone:          +30
+- fax-no:         +30
+- admin-c:        AUTO-1                                
+- tech-c:         AUTO-2                                
+- e-mail:         
+- remarks:        --------------------------------------
+- remarks:        'For complains about abuse, spam etc:'
+- abuse-mailbox:  
+- remarks:        --------------------------------------
+- mnt-by:         GRNET-NOC                    
+- nic-hdl:        AUTO-3               
+- source:         RIPE                           
+
+[inetnum inserted here]:                        
+- inetnum:        
+- netname:        
+- descr:          
+- admin-c:        AUTO-3                         
+- tech-c:         AUTO-3                                
+- abuse-c:        AUTO-3                                
+- status:         ASSIGNED PA                           
+- mnt-by:         GRNET-NOC                             
+- mnt-domains:    
+- source:         RIPE                                  
+- country:        GR                                    
+- changed:        
+                                                        
+[route6 prefix inserted here]:                               
+- route:          
+- descr:          
+- descr:          
+- origin:         
+- mnt-by:         GRNET-NOC                             
+- source:         RIPE                                  
+- changed:        
+                                                        
+inet6-[inet6num prefix inserted here]:                                     
+- inet6num:       
+- netname:        
+- descr:          
+- admin-c:        AUTO-3                                
+- tech-c:         AUTO-3                                
+- abuse-c:        AUTO-3                                
+- status:         ASSIGNED                              
+- mnt-by:         GRNET-NOC                             
+- mnt-domains:    
+- source:         RIPE                         
+- country:        GR                             
+- changed:        
+
+[route6 prefix inserted here]:                              
+- route6:         
+- descr:          
+- descr:          
+- origin:         
+- mnt-by:         GRNET-NOC                    
+- source:         RIPE                 
+- changed:        
